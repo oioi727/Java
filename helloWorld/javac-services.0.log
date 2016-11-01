@@ -1,0 +1,2 @@
+INFO	?	main	2016-11-01T20:12:30.654Z	org.javacs.Main#connectToNode	Connected to parent using socket on port 55282
+INFO	?	main	2016-11-01T20:12:30.846Z	org.javacs.JavaLanguageServer#doLint	Lint [/Users/shahzadnawaz/Documents/Code/Java/helloWorld/src/main/java/Main.java]
